@@ -15,3 +15,10 @@ char getch(void);
 /* Read 1 character with echo */
 char getche(void);
 
+void new_game();
+
+void flag_mode();
+
+void check_mode();
+
+void end_of_game();
